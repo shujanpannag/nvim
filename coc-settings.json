@@ -1,5 +1,5 @@
 {
-  "coc.preferences.formatOnSaveFiletypes": ["json", "python", "go", "*"],
+  "coc.preferences.formatOnSaveFiletypes": ["*"],
 
   "python.jediEnabled": false,
   "python.linting.enabled": true,
