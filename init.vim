@@ -8,3 +8,4 @@ source $HOME/.config/nvim/vim-plug/nerdtree-config.vim
 source $HOME/.config/nvim/vim-plug/startify-config.vim
 source $HOME/.config/nvim/vim-plug/coc-config.vim
 source $HOME/.config/nvim/vim-plug/floaterm-config.vim
+source $HOME/.config/nvim/vim-plug/fuzzy-config.vim

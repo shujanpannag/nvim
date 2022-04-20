@@ -41,7 +41,9 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'chiel92/vim-autoformat'
 
     " Fuzzy finder
-    Plug 'ctrlpvim/ctrlp.vim'
+    " Plug 'ctrlpvim/ctrlp.vim'
+    Plug 'nvim-lua/plenary.nvim'
+    Plug 'nvim-telescope/telescope.nvim'
 
     " Floating terminal
     Plug 'voldikss/vim-floaterm'
